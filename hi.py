@@ -1,1 +1,1 @@
-print("Hi2u2")
+print("Hi")
